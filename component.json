@@ -1,0 +1,14 @@
+{
+  "name": "aurora-popover",
+  "repo": "component/aurora-popover",
+  "description": "Aurora Popover theme",
+  "version": "0.0.1",
+  "keywords": ["aurora", "popover", "theme"],
+  "dependencies": {
+    "component/aurora-tip": "*"
+  },
+  "development": {},
+  "styles": [
+    "aurora-popover.css"
+  ]
+}
